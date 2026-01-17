@@ -11,4 +11,4 @@ plugins {
 }
 
 rootProject.name = 'ser321-assignments'
-include('app')
+include 'Assignment_1'
